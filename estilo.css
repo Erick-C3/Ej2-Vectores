@@ -1,4 +1,13 @@
-body, #info-productos{
+body{
     display: grid;
     place-content: center;
+}
+
+#info-productos{
+    display: flex;
+}
+
+.productos{
+    display: grid;
+    margin: 20px;
 }
