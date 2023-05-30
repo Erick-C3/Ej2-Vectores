@@ -1,0 +1,4 @@
+body, #info-productos{
+    display: grid;
+    place-content: center;
+}
